@@ -11,10 +11,10 @@
 :root {
   --primary-green: #6dbf4b; /* matched to the provided logo */
   --dark-bg: #0d0d0d;
-  --light-bg: #f9f9f9;
+  --light-bg: #6a018a;
   --text-color: #333;
-  --white: #ffffff;
-  --accent: #e5e5e5;
+  --white:  #6a018a;
+  --accent:  #6a018a;
 }
 
 body {
